@@ -1,7 +1,7 @@
 # Decentralized-Autonomous-Organization
 BUIDLing Decentralized Autonomous Organization (DAO).
 
-=========================================================================================================================================================================
+=======================================================================================================================================================================
 What is DAO?
 
 Decentralized Autonomous Organization (DAO) is any group that is governed by a transparent set of rules found on a blockchain or smart contract.
