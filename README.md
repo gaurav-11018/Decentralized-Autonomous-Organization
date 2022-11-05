@@ -1,5 +1,5 @@
 # Decentralized-Autonomous-Organization
-BUIDLing Decentralized Autonomous Organization (DAO).
+BUIDLing Decentralized Autonomous Organization (DAO). Contracts are written in solidity. Scripts and tests are written in typescript!
 
 
 # What is DAO?
